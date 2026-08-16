@@ -395,3 +395,64 @@
 - [HackerRank - Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)
 - [GeeksforGeeks - BFS](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
 - [GeeksforGeeks - DFS](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+
+
+# 07. DYNAMIC PROGRAMMING
+
+## 61. Fibonacci Number
+
+- [LeetCode - Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+---
+
+## 62. Climbing Stairs
+
+- [LeetCode - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+---
+
+## 63. House Robber
+
+- [LeetCode - House Robber](https://leetcode.com/problems/house-robber/)
+
+---
+
+## 64. Coin Change
+
+- [LeetCode - Coin Change](https://leetcode.com/problems/coin-change/)
+
+---
+
+## 65. Minimum Cost Climbing Stairs
+
+- [LeetCode - Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+---
+
+## 66. 0/1 Knapsack
+
+- [GeeksforGeeks - 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+
+---
+
+## 67. Subset Sum
+
+- [GeeksforGeeks - Subset Sum Problem](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+
+---
+
+## 68. Longest Increasing Subsequence
+
+- [LeetCode - Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+---
+
+## 69. Longest Common Subsequence
+
+- [LeetCode - Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+---
+
+## 70. Edit Distance
+
+- [LeetCode - Edit Distance](https://leetcode.com/problems/edit-distance/)

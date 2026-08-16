@@ -324,3 +324,74 @@
 ## 50. Solve Sudoku
 
 - [LeetCode - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+
+# 06. TREES & GRAPHS
+
+## 51. Inorder, preorder and postorder traversal
+
+- [LeetCode - Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [LeetCode - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [LeetCode - Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+---
+
+## 52. Find the height of a binary tree
+
+- [LeetCode - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+- [HackerRank - Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
+
+---
+
+## 53. Find the diameter of a binary tree
+
+- [LeetCode - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+---
+
+## 54. Check whether a binary tree is height-balanced
+
+- [LeetCode - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+---
+
+## 55. Level-order traversal
+
+- [LeetCode - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+- [HackerRank - Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+
+---
+
+## 56. Find the lowest common ancestor in a BST
+
+- [LeetCode - Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+---
+
+## 57. Find the Lowest Common Ancestor of Two Nodes
+
+- [LeetCode - Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+---
+
+## 58. Check Whether Two Binary Trees are Identical
+
+- [LeetCode - Same Tree](https://leetcode.com/problems/same-tree/)
+
+---
+
+## 59. Detect a Cycle in an Undirected Graph
+
+- [GeeksforGeeks - Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
+
+> Note: This is a direct match. The standard solutions use DFS, BFS, or Disjoint Set Union.
+
+---
+
+## 60. Perform Breadth-First Search (BFS) and Depth-First Search (DFS)
+
+- [HackerRank - Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)
+- [GeeksforGeeks - BFS](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+- [GeeksforGeeks - DFS](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)

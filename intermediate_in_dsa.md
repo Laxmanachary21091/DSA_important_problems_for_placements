@@ -63,3 +63,70 @@
 ## 10. Spiral traversal of a matrix
 
 - [LeetCode - Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+
+
+# 02. STRINGS
+
+## 11. Check whether a string can form a palindrome
+
+- [LeetCode - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+---
+
+## 12. Count vowels, consonants and special characters
+
+- [HackerRank - String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+
+> Note: This is a related string-manipulation problem, but not an exact match.
+
+---
+
+## 13. Find the first non-repeating character
+
+- [LeetCode - First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+---
+
+## 14. Check whether two strings are anagrams
+
+- [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [HackerRank - Anagram](https://www.hackerrank.com/challenges/anagram/problem)
+
+---
+
+## 15. Reverse words in a sentence
+
+- [LeetCode - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [HackerRank - Reverse a String](https://www.hackerrank.com/challenges/reverse-a-string/problem)
+
+---
+
+## 16. Find the longest common prefix
+
+- [LeetCode - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+---
+
+## 17. Compress a string
+
+- [LeetCode - String Compression](https://leetcode.com/problems/string-compression/)
+
+---
+
+## 18. Find the longest substring without repeating characters
+
+- [LeetCode - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+---
+
+## 19. Check whether brackets are balanced
+
+- [LeetCode - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [HackerRank - Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+
+---
+
+## 20. Generate valid words from a numeric keypad string
+
+- [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)

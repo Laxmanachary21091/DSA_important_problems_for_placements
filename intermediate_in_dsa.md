@@ -130,3 +130,67 @@
 ## 20. Generate valid words from a numeric keypad string
 
 - [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+# 03. SORTING & SEARCHING
+
+## 21. Merge Sort
+
+- [HackerRank - Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem)
+
+> Note: This HackerRank problem uses merge sort to count inversions, so it is a related implementation problem rather than a plain "sort the array using merge sort" question.
+
+---
+
+## 22. Quick Sort
+
+- [HackerRank - Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3/problem)
+
+---
+
+## 23. Find the first and last occurrence of a target
+
+- [LeetCode - Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+---
+
+## 24. Search in a rotated sorted array
+
+- [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+---
+
+## 25. Find the Kth largest element
+
+- [LeetCode - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+---
+
+## 26. Sort an array containing 0s, 1s and 2s
+
+- [LeetCode - Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+---
+
+## 27. Find the minimum difference between two elements
+
+- [GeeksforGeeks - Minimum difference between any two elements](https://www.geeksforgeeks.org/minimum-difference-between-any-two-elements/)
+
+> Note: This is the closest direct match. The standard approach is to sort the array and compare adjacent elements.
+
+---
+
+## 28. Search in a row/column-wise sorted matrix
+
+- [LeetCode - Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+
+---
+
+## 29. Merge overlapping intervals
+
+- [LeetCode - Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+---
+
+## 30. Find the median of two sorted arrays
+
+- [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)

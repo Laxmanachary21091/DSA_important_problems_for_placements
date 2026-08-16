@@ -262,3 +262,65 @@
 - [LeetCode - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
 - [LeetCode - Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+
+# 05. RECURSION & BACKTRACKING
+
+## 41. Print the Nth row of Pascal's triangle
+
+- [LeetCode - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
+---
+
+## 42. Count ways to climb a staircase
+
+- [LeetCode - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+---
+
+## 43. Generate all subsets
+
+- [LeetCode - Subsets](https://leetcode.com/problems/subsets/)
+
+---
+
+## 44. Generate all permutations
+
+- [LeetCode - Permutations](https://leetcode.com/problems/permutations/)
+
+---
+
+## 45. Generate phone keypad combinations
+
+- [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+---
+
+## 46. Find all paths through a grid
+
+- [LeetCode - Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+---
+
+## 47. Generate palindrome partitions
+
+- [LeetCode - Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
+---
+
+## 48. Find coin combinations for a target
+
+- [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [LeetCode - Coin Change](https://leetcode.com/problems/coin-change/)
+
+---
+
+## 49. Solve N-Queens
+
+- [LeetCode - N-Queens](https://leetcode.com/problems/n-queens/)
+
+---
+
+## 50. Solve Sudoku
+
+- [LeetCode - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)

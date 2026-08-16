@@ -194,3 +194,71 @@
 ## 30. Find the median of two sorted arrays
 
 - [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+
+
+# 04. STACKS, QUEUES & LINKED LISTS
+
+## 31. Reverse a singly linked list
+
+- [LeetCode - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+---
+
+## 32. Find the middle of a linked list
+
+- [LeetCode - Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+---
+
+## 33. Detect a cycle in a linked list
+
+- [LeetCode - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+---
+
+## 34. Check whether a linked list is a palindrome
+
+- [LeetCode - Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+---
+
+## 35. Merge two sorted linked lists
+
+- [LeetCode - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+---
+
+## 36. Remove the Nth node from the end
+
+- [LeetCode - Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+---
+
+## 37. Implement a stack using two queues
+
+- [LeetCode - Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+---
+
+## 38. Implement a queue using two stacks
+
+- [LeetCode - Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+- [HackerRank - Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem)
+
+---
+
+## 39. Check balanced parentheses using a stack
+
+- [LeetCode - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+- [HackerRank - Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+
+---
+
+## 40. Find the next greater element using a stack
+
+- [LeetCode - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+- [LeetCode - Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
